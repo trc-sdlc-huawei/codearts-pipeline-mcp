@@ -1,5 +1,5 @@
 # Ignore PowerPoint files
-architecture_diagram.pptx
+*.pptx
 
 # Ignore environment files
 .env
