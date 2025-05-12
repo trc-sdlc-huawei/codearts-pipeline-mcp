@@ -96,8 +96,3 @@ python server/mcp_server.py
 - Ensure your `CODEARTS_AUTH_TOKEN` is valid for accessing Huawei CodeArts Pipeline APIs.
 - The architecture is modular and can be extended with more MCP tools or endpoints.
 - For UI, you can use Streamlit or any other web framework.
-
----
-
-## License
-MIT
